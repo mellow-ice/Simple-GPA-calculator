@@ -29,6 +29,7 @@ def calculate_gpa(grades):
     gpa = total / len(grades) 
     return gpa
 
+# fuction หลักเพื่อเริ่มใช้งาน
 grades = []
 
 subject = int(input("Number of subject: "))
