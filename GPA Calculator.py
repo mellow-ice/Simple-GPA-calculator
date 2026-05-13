@@ -8,7 +8,7 @@ def get_grade(score):
         return "C"
     elif score >= 50:
         return "D"
-    elif score <= 50:
+    elif:
         return "F"
     
 # fuction 2: คำนวณ GPA
